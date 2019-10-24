@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Parcheggio
+comment0.text=\n\ Parcheggio\n\ \n\ @author\ (Leonardo\ Cannarella)\ \n\ @version\ (1.0\ -\ 24/10/2019)\n
+comment1.params=dim\ nome
+comment1.target=Parcheggio(int,\ java.lang.String)
+comment2.params=s
+comment2.target=void\ setNome(java.lang.String)
+comment3.params=d
+comment3.target=void\ setDim(int)
+comment4.params=v
+comment4.target=java.lang.String\ parcheggia(Veicolo)
+comment5.params=v\ pos
+comment5.target=java.lang.String\ parcheggia(Veicolo,\ int)
+comment6.params=pos
+comment6.target=java.lang.String\ esci(int)
+numComments=7
