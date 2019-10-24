@@ -1,9 +1,9 @@
 
 /**
- * Aggiungi qui una descrizione della classe Test
+ * Test
  * 
- * @author (il tuo nome) 
- * @version (un numero di versione o una data)
+ * @author (Leonardo Cannarella) 
+ * @version (1.0 - 24/10/2019)
  */
 public class Test
 {

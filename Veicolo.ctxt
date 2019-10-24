@@ -1,6 +1,6 @@
 #BlueJ class context
 comment0.target=Veicolo
-comment0.text=\r\n\ Aggiungi\ qui\ una\ descrizione\ della\ classe\ Veicolo\r\n\ \r\n\ @author\ (il\ tuo\ nome)\ \r\n\ @version\ (un\ numero\ di\ versione\ o\ una\ data)\r\n
+comment0.text=\r\n\ Veicolo\r\n\ \r\n\ @author\ (Leonardo\ Cannarella)\ \r\n\ @version\ (1.0\ -\ 24/10/2019)\r\n
 comment1.params=targa\ marca\ modello\ cilindrata\ annoa\ numerop
 comment1.target=Veicolo(java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ int,\ int)
 comment10.params=annoa

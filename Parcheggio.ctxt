@@ -1,6 +1,6 @@
 #BlueJ class context
 comment0.target=Parcheggio
-comment0.text=\n\ Parcheggio\n\ \n\ @author\ (Leonardo\ Cannarella)\ \n\ @version\ (1.0\ -\ 24/10/2019)\n
+comment0.text=\r\n\ Parcheggio\r\n\ \r\n\ @author\ (Leonardo\ Cannarella)\ \r\n\ @version\ (1.0\ -\ 24/10/2019)\r\n
 comment1.params=dim\ nome
 comment1.target=Parcheggio(int,\ java.lang.String)
 comment2.params=s

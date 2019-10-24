@@ -1,6 +1,6 @@
 #BlueJ class context
 comment0.target=BoxAuto
-comment0.text=\r\n\ Aggiungi\ qui\ una\ descrizione\ della\ classe\ BoxAuto\r\n\ \r\n\ @author\ (il\ tuo\ nome)\ \r\n\ @version\ (un\ numero\ di\ versione\ o\ una\ data)\r\n
+comment0.text=\r\n\ BoxAuto\r\n\ \r\n\ @author\ (Leonardo\ Cannarella)\ \r\n\ @version\ (1.0\ -\ 24/10/2019)\r\n
 comment1.params=
 comment1.target=BoxAuto()
 comment1.text=\r\n\ Costruttore\ degli\ oggetti\ di\ classe\ \ BoxAuto\r\n
